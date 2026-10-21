@@ -1,6 +1,3 @@
 usage:
-Open PowerShell
-enter this: python audiorelay.py [switch ip]
-it automatically detects the port, so no need to enter port with it
-if you get buffering issues, edit the python file:
-by default, cushion_blocks=2, each one is a 20ms delay. if audio is buffering, add more blocks
+Run the exe, enter switch ip, and you're done!
+I have been using it for a few days now, and every bug I found has been fixed, if you find any more report it.
